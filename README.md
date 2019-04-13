@@ -1,6 +1,6 @@
 # shumei
 storage of shumei's work
-4月9日正式开始对Java基础的再学习,使用runoob网站上的教程以及百度搜索引擎进行学习,效率中等.四月12日接触从未使用的stringbuffer与多线程
+4月9日正式开始对Java基础的再学习,使用runoob网站上的教程以及百度搜索引擎进行学习,效率中等.4月12日接触从未使用的stringbuffer与多线程
 作业选择level2,过程中感觉对Java理解浅薄,对于做程序没有整体思路.
 4月13日在level2上添加注释
 目标:每日期望进行两个小时的Java学习
